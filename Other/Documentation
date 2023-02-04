@@ -1,0 +1,5 @@
+The software uses a model in which every time a change is made, the "model" is updated, then the entire "view"
+ is reset based on the new state of the model.
+
+Here is how the configuration file works: A value is preceeded by its name, a colon and a space. Name: Value
+The file has to have a blank line at the end.
